@@ -21,23 +21,17 @@ I’m currently building a strong foundation in **cloud support, IT operations, 
 
 ---
 
-## 🧩 Projects (Coming Soon)
+## ## 📁 Portfolio Projects — Coming Soon
 
-I’m actively building and documenting projects like:
+I’m currently working on a set of cloud and IT support projects that will be added to this GitHub profile as individual repositories. These will include documentation, screenshots, and what I learned from each project.
 
-- **AWS EC2 Deployment** – launch and secure cloud servers  
-- **S3 Static Website Hosting** – host a website from an S3 bucket  
-- **IAM Users & Policies** – least-privilege access in AWS  
-- **CloudWatch Monitoring Setup** – track CPU, memory, and logs  
-- **PowerShell Automation** – automate routine IT tasks  
-- **Network Troubleshooting Lab** – DNS, ping, tracert, and connectivity  
-- **Windows Security Hardening** – firewall, updates, and user access
-
-As I complete each project, I’ll add a dedicated repository with:
-- 📁 README (what I built + how)  
-- 🖼️ Screenshots  
-- 🔧 Commands used  
-- 📘 What I learned  
+- **AWS EC2 Deployment** – Configure virtual servers with secure access  
+- **S3 Static Website Hosting** – Build and host a static website on S3  
+- **IAM User & Policy Configuration** – Create groups, policies, and permissions  
+- **CloudWatch Monitoring Setup** – Track logs, metrics, and alerts  
+- **PowerShell Automation** – Automate Windows system tasks  
+- **Network Troubleshooting (DNS & Connectivity)** – Real-world diagnostics  
+- **Windows Security Hardening** – Firewall, UAC, defender, updates  
 
 ---
 
