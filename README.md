@@ -21,7 +21,7 @@ I’m currently building a strong foundation in **cloud support, IT operations, 
 
 ---
 
-## ## 📁 Portfolio Projects — Coming Soon
+## 📁 Portfolio Projects — Coming Soon
 
 I’m currently working on a set of cloud and IT support projects that will be added to this GitHub profile as individual repositories. These will include documentation, screenshots, and what I learned from each project.
 
