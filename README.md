@@ -8,8 +8,8 @@ I’m currently building a strong foundation in **cloud support, IT operations, 
 
 ## ☁️ What I’m Working On
 
-- 🎓 **AWS Cloud Practitioner Certification** (in progress)  
-- 💻 **Google IT Support Professional Certificate** (in progress)  
+- 🎓 **AWS Cloud Practitioner Certification** December 2025
+- 💻 **Google IT Support Professional Certificate** December 2025 
 - 🖥️ Hands-on projects with:
   - Amazon EC2 (virtual servers)
   - S3 (storage & static website hosting)
